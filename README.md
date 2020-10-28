@@ -6,3 +6,4 @@ Build and run, see Driver\MhyProt2.cs for available function and usage.
 
 # Demo
 ![Demo](https://raw.githubusercontent.com/kagurazakasanae/Mhyprot2DrvControl/main/demo.png)
+![KillProcessDemo](https://raw.githubusercontent.com/kagurazakasanae/Mhyprot2DrvControl/main/killprocessdemo.gif)
